@@ -28,17 +28,23 @@ This project allows you to securely store passwords using SQLite and Fernet encr
 
 ## Screenshots
 
-### Main Menu
+## Main Menu
 
-(images/menu.jpg)
+<p align="center">
+  <img src="images/menu.jpg" width="900">
+</p>
 
-### Password List
+## Password List
 
-(images/Password_list.jpg)
+<p align="center">
+  <img src="images/Password_list.jpg" width="900">
+</p>
 
-### Password Generatoin
+## Password Generation
 
-(images/generate_strong_password.jpg)
+<p align="center">
+  <img src="images/generate_strong_password.jpg" width="900">
+</p>
 
 
 ```bash
