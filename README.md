@@ -42,7 +42,7 @@ This project allows you to securely store passwords using SQLite and Fernet encr
 
 
 ```bash
-git clone https://github.com/AmirAlioth/Password-Manager-CLI.git
+git clone https://github.com/AmirAlioth/PasswordManager
 ```
 
 Install the requirements:
